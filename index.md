@@ -1,6 +1,6 @@
-Divy Sunderraj's First CS193 Homework
+## Divy Sunderraj's First CS193 Homework 
 
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 This is the website I created to rival google. 
 
